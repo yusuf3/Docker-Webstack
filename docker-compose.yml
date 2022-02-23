@@ -1,0 +1,7 @@
+version: '3'
+services:
+    api:
+        image: webstack:v1.0.0
+        container_name: api
+        ports:
+            - "8080:80"

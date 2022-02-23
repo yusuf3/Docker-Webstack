@@ -17,7 +17,7 @@ Deploy to GCP Cloud Run:
 Deploy to local
 
 1. Clone this repo
-2. Copy [Dockerfile](Dockerfile) & [config](config) to your API folder
+2. Copy [Dockerfile](Dockerfile) & [config](config) to your folder
 3. `docker build -t {your-image-tag} .`
 4. `docker run -d -p 8080:8080 --name {your-container-name} {your-image-tag}`
 5. or with [docker-compose](docker-compose.yml): `docker-compose up -d`

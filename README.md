@@ -11,7 +11,7 @@ Forked from https://github.com/eXistenZNL/Docker-Webstack.
 Deploy to GCP Cloud Run:
 
 1. Clone this repo
-2. Copy [Dockerfile](Dockerfile) & [config](config) to your API folder
+2. Copy [Dockerfile](Dockerfile) & [config](config) to your folder
 3. `gcloud run deploy`
 
 Deploy to local

@@ -4,7 +4,8 @@
 
 Forked from https://github.com/eXistenZNL/Docker-Webstack.
 
-[Dockerfile](Dockerfile) & [config](config) which I use for containerized PHP Lumen, based on [Dockerfile-7.4](Dockerfile-7.4) & deploy to GCP Cloud Run.
+[Dockerfile](Dockerfile) & [config](config) which I use for containerized PHP [Lumen](https://lumen.laravel.com
+), PHP API/micro-framework by Laravel, based on [Dockerfile-7.4](Dockerfile-7.4) and deploy to GCP Cloud Run.
 
 ## How can I use it?
 
